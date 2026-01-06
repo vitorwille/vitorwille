@@ -40,9 +40,9 @@ public static void VitorWille()
 <div align="center">
   <h2> 🌍 Languages I Speak </h2>
   <br>
-  <img src="https://cdn.discordapp.com/attachments/1458149930739826850/1458149951631655098/en-us.webp?ex=695e9777&is=695d45f7&hm=8adf9d66086a40962b3f908fd12843fd35fcbcc70a6538ed4411fa2cd507bb1d&" width="9%" style="border: 1px white solid; border-radius: 7px" alt="English - US">
+  <img src="https://cdn.discordapp.com/attachments/1458149930739826850/1458149951631655098/en-us.webp?ex=695e9777&is=695d45f7&hm=8adf9d66086a40962b3f908fd12843fd35fcbcc70a6538ed4411fa2cd507bb1d&" width="20%" style="border: 1px white solid; border-radius: 7px" alt="English - US">
   &nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/1458149930739826850/1458149952088838362/pt-br.webp?ex=695e9777&is=695d45f7&hm=70a6d3ef4fe82e9ad7a66479e0b76e73a2a3e8367a029cbfa5e98e9a0d7bd1df&" width="9%" style="border: 1px white solid; border-radius: 7px" alt="Portuguese - BR">
+  <img src="https://cdn.discordapp.com/attachments/1458149930739826850/1458149952088838362/pt-br.webp?ex=695e9777&is=695d45f7&hm=70a6d3ef4fe82e9ad7a66479e0b76e73a2a3e8367a029cbfa5e98e9a0d7bd1df&" width="20%" style="border: 1px white solid; border-radius: 7px" alt="Portuguese - BR">
 </div>
 
 <div align="center">
