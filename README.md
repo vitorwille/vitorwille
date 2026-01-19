@@ -1,9 +1,9 @@
 <div align="center">
   
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&letterSpacing=-2px&duration=2000&pause=1300&color=8911F7&center=true&vCenter=true&width=435&lines=Vitor+Wille" alt="Vitor Wille" /></a>
+<a href="https://github.com/vitorwille"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&letterSpacing=-2px&duration=2000&pause=1300&color=8911F7&center=true&vCenter=true&width=435&lines=Vitor+Wille" alt="Vitor Wille" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=22&duration=1&pause=9999999999999999999999999999999999999&color=F7F7F7&center=true&vCenter=true&width=435&lines=C%23+Developer" alt="C# Developer" /></a>
+<a href="https://github.com/vitorwille"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=22&duration=1&pause=9999999999999999999999999999999999999&color=F7F7F7&center=true&vCenter=true&width=435&lines=C%23+Developer" alt="C# Developer" /></a>
 </div>
 
 <div align="center" style="display: flex; justify-content: center">
@@ -40,9 +40,9 @@ public static void VitorWille()
 <div align="center">
   <h2> 🌍 Languages I Speak </h2>
   <br>
-  <img src="https://cdn.discordapp.com/attachments/1458149930739826850/1458149951631655098/en-us.webp?ex=695e9777&is=695d45f7&hm=8adf9d66086a40962b3f908fd12843fd35fcbcc70a6538ed4411fa2cd507bb1d&" width="15%" style="border: 1px white solid; border-radius: 7px" alt="English - US">
+  <img src="https://media.discordapp.net/attachments/1458149930739826850/1458149951631655098/en-us.webp?ex=696fbaf7&is=696e6977&hm=3ac82151252d5d6905772580411d6746bfa64a6e13fc946db04ce3fdac27b29b&=&format=webp" width="15%" style="border: 1px white solid; border-radius: 7px" alt="English - US">
   &nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/1458149930739826850/1458149952088838362/pt-br.webp?ex=695e9777&is=695d45f7&hm=70a6d3ef4fe82e9ad7a66479e0b76e73a2a3e8367a029cbfa5e98e9a0d7bd1df&" width="15%" style="border: 1px white solid; border-radius: 7px" alt="Portuguese - BR">
+  <img src="https://media.discordapp.net/attachments/1458149930739826850/1458149952088838362/pt-br.webp?ex=696fbaf7&is=696e6977&hm=e82cc2fcd16c47ff86ee3e27a38f8eab3d040fc05e811c457607cf59f6db1144&=&format=webp" width="15%" style="border: 1px white solid; border-radius: 7px" alt="Portuguese - BR">
 </div>
 
 <div align="center">
