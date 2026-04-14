@@ -3,7 +3,7 @@
 
 <a href="https://github.com/vitorwille"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&letterSpacing=-2px&duration=2000&pause=1300&color=8911F7&center=true&vCenter=true&width=435&lines=Vitor+Wille" alt="Vitor Wille" /></a>
 
-<a href="https://github.com/vitorwille"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=22&duration=1&pause=9999999999999999999999999999999999999&color=F7F7F7&center=true&vCenter=true&width=435&lines=C%23+Developer" alt="C# Developer" /></a>
+<a href="https://github.com/vitorwille"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=450&size=22&duration=1&pause=9999999999999999999999999999999999999&color=F7F7F7&center=true&vCenter=true&width=435&lines=C%23%20%26+Web+Developer" alt="C# & Web Developer" /></a>
 </div>
 
 <div align="center" style="display: flex; justify-content: center">
@@ -33,16 +33,16 @@ public static void VitorWille()
 <div align="center">
   <h2> 🛠️ Tech Stack </h2>
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,cs,arduino,c,bash,php,nodejs,mysql,cypress,postman,git,md,vscode,visualstudio&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=cs,arduino,c,bash,php,astro,react,ts,mysql,sqlite,cypress,postman,md,linux,git,docker,vscode,visualstudio&theme=dark&perline=6"/>
 <br><br>
 </div>
 
 <div align="center">
   <h2> 🌍 Languages I Speak </h2>
   <br>
-  <img src="https://media.discordapp.net/attachments/1458149930739826850/1458149951631655098/en-us.webp?ex=696fbaf7&is=696e6977&hm=3ac82151252d5d6905772580411d6746bfa64a6e13fc946db04ce3fdac27b29b&=&format=webp" width="15%" style="border: 1px white solid; border-radius: 7px" alt="English - US">
-  &nbsp;&nbsp;
-  <img src="https://media.discordapp.net/attachments/1458149930739826850/1458149952088838362/pt-br.webp?ex=696fbaf7&is=696e6977&hm=e82cc2fcd16c47ff86ee3e27a38f8eab3d040fc05e811c457607cf59f6db1144&=&format=webp" width="15%" style="border: 1px white solid; border-radius: 7px" alt="Portuguese - BR">
+  <img src="https://em-content.zobj.net/source/apple/325/flag-united-states_1f1fa-1f1f8.png" width="8%" alt="English - US">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://em-content.zobj.net/source/apple/48/flag-for-brazil_1f1e7-1f1f7.png" width="8%" alt="Portuguese - BR">
 </div>
 
 <div align="center">
