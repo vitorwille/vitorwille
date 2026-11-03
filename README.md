@@ -47,7 +47,7 @@ public static void VitorWille()
 
 <div align="center">
   <h2> 📈 Activity Dashboard </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorwille&bg_color=0d1117&color=e0dcea&line=8911f7&point=09ecdd&area=true&hide_border=true" width="100%">
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=vitorwille&size=small&theme=purple"
 </div>
 
 <div align="center">
