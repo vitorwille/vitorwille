@@ -67,5 +67,5 @@ public static void VitorWille()
   <br><br>
   <img alt="UltraLIMS company logo" width="50" src="https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797"/>
   <br><br>
-  <p>QA Intern at <a href="https://www.ultralims.com.br" target="_blank">@UltraLIMS</a></p> 
+  <p>Software Development Intern at <a href="https://www.ultralims.com.br" target="_blank">@UltraLIMS</a></p> 
 </div>
