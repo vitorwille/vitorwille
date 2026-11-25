@@ -33,7 +33,7 @@ public static void VitorWille()
 <div align="center">
   <h2> 🛠️ Tech Stack </h2>
   <br>
-  <img src="https://skillicons.dev/icons?i=cs,arduino,c,bash,php,astro,react,ts,mysql,sqlite,cypress,postman,md,linux,git,docker,vscode,visualstudio&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=cs,arduino,c,bash,php,astro,react,nextjs,ts,mysql,sqlite,cypress,postman,md,linux,git,docker,nodejs&theme=dark&perline=6"/>
 <br><br>
 </div>
 
